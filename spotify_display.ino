@@ -16,8 +16,8 @@
 char* SSID = "WiFi-B793-5G";
 char* PASSWORD = "25324327";
 
-const char* CLIENT_ID = "deac17a8479c4ceaa0e230443f3eaafc";
-const char* CLIENT_SECRET = "0dbf02b13aa340828a57a4dcf5a03412";
+const char* CLIENT_ID = ;
+const char* CLIENT_SECRET = ;
 
 Spotify sp(CLIENT_ID, CLIENT_SECRET);
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RST);
